@@ -1,0 +1,23 @@
+# Chapter 3
+
+## The Scriptures
+
+### Psalm 91
+
+Whoever goes to The Lord for Safety Whoever remains in the Protection of The Almighty, can say to Him,”You Are My Lord, You are My God, In You I Trust.” He will keep safe from all hidden Dangers and all deadly diseases, You will be safe in His care, His Faithfulness will Protect and Defend You, You need not fear any Dangers at Night or Sudden Attacks during The Day or the Plagues that strike in the Dark or The Evils that kill in Daylight. A thousand may fall beside You, Ten Thousand all around You, and You will not be harmed, God will put His Angels In Charge Of You and Keep You from hurting your feet on the Stones, You will trample down Lions and Snakes, Fierce Lions and Poisonous Snakes but you will not be harmed. God Says,”I will save those who Love me and Protect Those who acknowledge me as God, When they call to me, I will Answer them. When they are in Trouble, I will be with Them, I will rescue them and Honour Them, I will reward them with Long Life, And I will Save Them.”<br>
+**Amen.**
+
+### Psalm 51
+
+Have mercy on me, O God, according to your steadfast love; according to your abundant mercy blot out my transgressions. Wash me thoroughly from my iniquity and cleanse me from my sin. For I know my transgressions, and my sin is ever before me. Against you, you alone, have I sinned, and done what is evil in your sight, so that you are justified in your sentence and blameless when you pass judgment. Indeed, I was born guilty, a sinner when my mother conceived me. You desire truth in the inward being; therefore teach me wisdom in my secret heart. Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow. Let me hear joy and gladness; let the bones that you have crushed rejoice, Hide your face from my sins, and blot out all my iniquities. Create in me a clean heart, O God, and put a new and right spirit within me. Do not cast me away from your presence, and do not take your holy spirit from me. Restore to me the joy of your salvation, and sustain in me a willing spirit. Then I will teach transgressors your ways, and sinners will return to you. Deliver me from bloodshed, O God, O God of my salvation, and my tongue will sing aloud of your deliverance. Lord, open my lips, and my mouth will declare your praise. For you have no delight in sacrifice; if I were to give a burnt offering, you would not be pleased. The sacrifice acceptable to God is a broken spirit; a broken and contrite heart, O God, you will not despise. Do good to Zion in Your Good Pleasure, Rebuild the walls of Jerusalem, then you will delight in Right Sacrifices, Burnt Offerings and Whole Burnt Offerings and Then bulls will be offered on Your Altar.<br>
+**Amen.**
+
+### Psalm 23
+
+The Lord is My shepherd and I shall not be in want He makes me lie down in Green Pastures and restores my soul and guides me in parts of righteousness, for His Name Sake. Even though I walk in the valley in the shallow of death. I will fear no evil, for You O Lord are always with me. Your Rod and Your staff, they comfort me. You prepare a table before me in the presence of my enemies; You anoint my head with oil and my cup overflows, Surely Goodness and Love will follow me, all the Days of my Life And I will dwell in the House of Lord forever.<br>
+**Amen.**
+
+### Ephesians 6:10-20
+
+Finally, be strong in the Lord and in the strength of His power. Put on the whole armour of God, so that you may be able to stand against the wiles of the devil. For our struggle is not against enemies of blood and flesh, but against the rulers, against the authorities, against the cosmic powers of this present darkness, against the spiritual forces of evil in the heavenly places.Therefore take up the whole armour of God, so that you may be able to withstand on that evil day, and having done everything, to stand firm. Stand therefore, and fasten the belt of truth around your waist, and put on the breastplate of righteousness. As shoes for your feet put on whatever will make you ready to proclaim the gospel of peace. With all of these, take the shield of faith, with which you will be able to quench all the flaming arrows of the evil one. Take the helmet of salvation, and the sword of the Spirit, which is the word of God. Pray in the Spirit at all times in every prayer supplication. To that end keep alert and always persevere in supplication for all the saints. Pray also for me, so that when I speak, a message may be given to me to make known with boldness the mystery of the gospel, for which I am an ambassador in chains. Pray that I may declare it boldly, as I must speak.<br>
+**Amen.**

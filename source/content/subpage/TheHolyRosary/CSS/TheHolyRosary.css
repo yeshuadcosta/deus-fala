@@ -1,0 +1,36 @@
+h1 {
+	font-size: 50px;
+	font-weight: bolder;
+	text-align: center;
+}
+
+h2 {
+	font-size: 45px;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+}
+
+h3 {
+	font-size: 42px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+p {
+	font-size: 40px;
+	padding: 10px 0 10px;
+}
+
+.hyperlink {
+	font-size:40px;
+	font-weight: bold;
+	padding: 15px 10px 15px;
+}
+
+footer {
+	font-size: 30px;
+	text-align: center;
+	background-color: #e7e7e7;
+}

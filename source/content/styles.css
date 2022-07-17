@@ -1,0 +1,65 @@
+h1 {
+	font-size: 60px;
+	font-weight: bold;
+	text-align:center;
+}
+
+h2 {
+	font-size: 50px;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+}
+
+.sub_head{
+  font-size:45px;
+  text-align:center;
+  font-weight:bold;
+  padding: 15px 5px 15px;
+}
+
+p{
+	font-size: 40px;
+}
+
+.hyperlink {
+	font-size:40px;
+	font-weight: bold;
+	padding: 15px 10px 15px;
+}
+
+nav {
+	background-color: #76d0f7;
+	font-weight: bold;
+}
+
+/* This style makes 'Dio-Parla' align towards the left of the navigation bar */
+#left_navbar {
+	float: left;
+}
+
+/* This style makes the contents of the navigation bar align towards the right */
+#right_navbar{
+	float: right;
+}
+
+li{
+	list-style-type: none;
+	display: inline;
+	padding: 0 5px 0;
+	font-size: 35px;
+}
+
+.rose_instruct{
+  text-align:left;
+  font-size:40px;
+  padding: 15px 0 15px;
+}
+
+footer {
+	font-size: 20px;
+  color:#9E9E9E;
+	text-align: center;
+	background-color: #E9E9E9;
+}
+

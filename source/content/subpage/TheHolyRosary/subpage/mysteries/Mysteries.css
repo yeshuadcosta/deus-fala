@@ -1,0 +1,15 @@
+h1 {
+	font-style:bold;
+	font-size:50px;
+	text-align:center;
+}
+
+.title {
+	font-size:40px;
+	font-style:bold;
+}
+
+.description {
+	font-size:35px;
+	font-style:italic;
+}
